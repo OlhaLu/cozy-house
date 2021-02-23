@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9322fee5-cd79-4988-a259-7aa846b5ed64" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/Cat.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/Cat.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/Dog.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/Dog.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/Dog1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/Dog1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/Dog2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/Dog2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/Pets.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/Pets.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/banner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/footer-banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/footer-banner.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,32 +25,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="340">
+              <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="138" column="7" lean-forward="true" selection-end-line="153" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="66" selection-start-line="19" selection-start-column="66" selection-end-line="19" selection-end-column="66" />
             </state>
           </provider>
         </entry>
@@ -118,6 +105,12 @@
               <item name="cozy-house" type="b2602c69:ProjectViewProjectNode" />
               <item name="cozy-house" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cozy-house" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cozy-house" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -136,11 +129,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sonik\Desktop\cozy-house\src\images" />
       <recent name="C:\Users\Sonik\Desktop\cozy-house\src\js" />
       <recent name="C:\Users\Sonik\Desktop\cozy-house\src" />
       <recent name="C:\Users\Sonik\Desktop\cozy-house\src\images\footer-icons" />
       <recent name="C:\Users\Sonik\Desktop\cozy-house\src\fonts" />
-      <recent name="C:\Users\Sonik\Desktop\cozy-house\src\images" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Sonik\Desktop\cozy-house\src\fonts" />
@@ -170,12 +163,12 @@
       <option name="presentableId" value="Default" />
       <updated>1614008810548</updated>
       <workItem from="1614008814004" duration="18728000" />
-      <workItem from="1614081688352" duration="21719000" />
+      <workItem from="1614081688352" duration="22204000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40447000" />
+    <option name="totallyTimeSpent" value="40932000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -352,13 +345,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="66" selection-start-line="19" selection-start-column="66" selection-end-line="19" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/js/jquery.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -369,17 +355,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="66" selection-start-line="19" selection-start-column="66" selection-end-line="19" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="138" column="7" lean-forward="true" selection-end-line="153" />
+        <state relative-caret-position="408">
+          <caret line="24" column="36" lean-forward="true" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="340">
+          <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
           <folding>
             <element signature="n#style#0;n#img#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
