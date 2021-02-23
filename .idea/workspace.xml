@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9322fee5-cd79-4988-a259-7aa846b5ed64" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/js/jquery.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/css/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/fonts/ArialItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/fonts/ArialItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/fonts/ArialRegular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/fonts/ArialRegular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/fonts/ArialRegular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/fonts/Georgia.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/fonts/Georgia.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/fonts/Georgia.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/fonts/Georgia.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/fonts/TimesNewRomanPSMT.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/fonts/TimesNewRomanPSMT.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/fonts/TimesNewRomanPSMT.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/js/scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -35,14 +20,23 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+            <state relative-caret-position="374">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#li#5;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/js/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="138" column="7" lean-forward="true" selection-end-line="153" />
             </state>
           </provider>
         </entry>
@@ -120,6 +114,12 @@
               <item name="cozy-house" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="cozy-house" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cozy-house" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -170,12 +170,12 @@
       <option name="presentableId" value="Default" />
       <updated>1614008810548</updated>
       <workItem from="1614008814004" duration="18728000" />
-      <workItem from="1614081688352" duration="21234000" />
+      <workItem from="1614081688352" duration="21719000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39962000" />
+    <option name="totallyTimeSpent" value="40447000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -279,13 +279,6 @@
     <entry file="file://$PROJECT_DIR$/src/images/footer-banner.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="152" column="3" selection-start-line="152" selection-start-column="3" selection-end-line="152" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/css/base.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -366,10 +359,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="62" lean-forward="true" selection-start-line="18" selection-start-column="62" selection-end-line="18" selection-end-column="62" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="138" column="7" lean-forward="true" selection-end-line="153" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="n#style#0;n#img#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
