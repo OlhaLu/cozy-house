@@ -2,7 +2,7 @@
   "name": "cozy-house",
   "version": "1.2.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "start": "cross-env PORT=1234 gulp start --development ",
     "build": "gulp build --production",
