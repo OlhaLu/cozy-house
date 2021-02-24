@@ -183,4 +183,8 @@
   .help-container {
     padding: 0;
   }
+
+  .help-list-block {
+    display: block;
+  }
 }
