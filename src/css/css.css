@@ -435,6 +435,7 @@ a.control_next {
   color: var(--beige-text-color);
   font-family: var(--time-new-roman-regular);
   font-size: 20px;
+  text-decoration: none;
 }
 
 .footer-title {
