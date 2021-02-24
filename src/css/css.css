@@ -385,6 +385,7 @@ a.control_next {
   padding: 12px 15px;
   border-radius: 10px;
   display: flex;
+  align-items: center;
 }
 
 .donate-credit-icon {
@@ -413,7 +414,7 @@ a.control_next {
 }
 
 .footer-container {
-  padding: 70px 0;
+  padding: 70px 15px;
   display: flex;
 }
 
